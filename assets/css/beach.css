@@ -1,0 +1,58 @@
+.main-section{
+  background-image: url("../img/beach.jpg");
+  background-size: cover;
+  text-align: center;
+padding-right: 20%;
+padding-left: 20%;
+padding-top: 30%;
+  
+  color: #926239;
+  font-style: normal;
+  font-size: 17px;
+  font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+  line-height: normal;
+  height: 90vh;
+}
+h1{
+  font-size: 50px;
+  line-height: 1.2;
+}
+.button{
+  border: 2px solid #926239;
+  color: #926239;
+  text-decoration: none;
+  padding: 12px;
+  border-radius: 5%
+  }
+  .button:hover{
+    color: white;
+    background-color: #926239; 
+  }
+.article-dark{
+  padding: 10px;
+  text-align: center;
+color: white;
+  background-color: #926239;
+}
+.article-light{
+  padding: 10px;
+  text-align: center;
+  color: #926239;
+  background-color: white;
+}
+h2 { 
+  text-align: center;
+
+}
+.short-articles{
+  text-align: center;
+  display:flex;
+  }
+  .short-articles div{
+    padding: 10px;
+    text-align: left;
+
+  }
+
+
+
